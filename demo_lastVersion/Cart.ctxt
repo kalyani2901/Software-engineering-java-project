@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=p\ quantity
+comment0.target=void\ add(Product,\ float)
+comment0.text=\n\ <pre>\n\ Adds\ a\ certain\ quantity\ of\ a\ certain\ product\ to\ the\ cart.\n\ </pre>\n\ @param\ p\ The\ product\ to\ add\n\ @param\ quantity\ The\ quantity\ of\ the\ product\ to\ add\n
+comment1.params=item
+comment1.target=void\ add(CartItem)
+comment1.text=\n\ <pre>\n\ Adds\ a\ pre-formatted\ CartItem\ to\ the\ cart.\n\ Preferably\ use\ add(Product,\ float)\ as\ that\ method\ performs\ checks\ to\ prevent\ duplicate\ items.\n\ </pre>\n\ @param\ item\ The\ CartItem\ to\ add\n
+comment2.params=
+comment2.target=java.util.List\ getList()
+comment2.text=\n\ <pre>\n\ Returns\ a\ list\ of\ all\ CartItems.\n\ </pre>\n\ @return\ The\ list\ of\ CartItems\n
+comment3.params=
+comment3.target=void\ clear()
+comment3.text=\n\ <pre>\n\ Removes\ all\ items\ from\ this\ cart.\n\ </pre>\n
+comment4.params=items
+comment4.target=void\ setItems(java.util.ArrayList)
+comment4.text=\n\ <pre>\n\ Replaces\ the\ list\ of\ items\ with\ a\ different\ one.\n\ </pre>\n\ @param\ items\ The\ new\ list\ of\ items.\n
+comment5.params=item
+comment5.target=void\ remove(CartItem)
+comment5.text=\n\ <pre>\n\ Removes\ a\ specific\ item\ from\ the\ cart.\n\ </pre>\n\ @param\ item\ The\ item\ to\ remove\n
+numComments=6

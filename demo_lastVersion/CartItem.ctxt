@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=product\ quantity
+comment0.target=CartItem(Product,\ float)
+comment1.params=
+comment1.target=float\ getQuantity()
+comment2.params=quantity
+comment2.target=void\ setQuantity(float)
+comment3.params=
+comment3.target=Product\ getProduct()
+comment4.params=product
+comment4.target=void\ setProduct(Product)
+comment5.params=
+comment5.target=void\ add()
+comment5.text=\n\ <pre>\n\ Adds\ 1\ to\ the\ current\ quantity.\n\ </pre>\n
+comment6.params=quantity
+comment6.target=void\ add(int)
+comment6.text=\n\ <pre>\n\ Adds\ the\ desired\ amount\ to\ the\ quantity.\n\ </pre>\n\ @param\ quantity\ The\ quantity\ to\ add\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

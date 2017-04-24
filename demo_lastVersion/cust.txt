@@ -1,0 +1,4 @@
+kalyani:password,kalyani,13 emily st,carnegie,111111111, 9194338755
+ol2:testing,Oliver,44 Pallant Ave,9392118340,0432233645
+test:test1,Alex,23/A collins street, Melbourne,1234567898
+jn1:password,John,32 Centre Road,9392812340,0431777201

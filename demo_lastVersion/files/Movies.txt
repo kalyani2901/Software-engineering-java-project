@@ -1,0 +1,9 @@
+If Only:2004,Romantic,Paul Nicholls,1,100,30.0
+The Godfather:1972,Crime,Francis Ford Coppola,3,80,20.5
+The Dark Knight:2008,Action,Christopher Nolan,1,60,60.0
+12 Angry Men:1957,Action,Sidney Lumet,1,120,10.0
+Schindler's List:1993,Drama,Steven Spielberg,1,110,20.0
+Harry Porter:2001,Fantasy,Mike Newell,3,99,60.0
+Fight Club:1999,Drama,David Fincher,1,88,40.0
+3 Idiots:2011,College,Aamir Khan,100,1,25.0
+Last day:2018,horror,Peter wilson,2,43,20.0

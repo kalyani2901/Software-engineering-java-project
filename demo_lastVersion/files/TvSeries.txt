@@ -1,0 +1,8 @@
+Narcos:2015,Crime,Carlo Bernard,Wagner Moura,90,2,2.0
+Game of Thrones:2011,Adventure,David Benioff,Emilia Clarke,100,6,6.0
+Suits:2011,Comedy,Aaron Korsh,Gabriel Macht,30,6,6.0
+Shameless:2011,Comedy,John Wells,Emmy Rossum,20,7,7.0
+The Walking Dead:2010,Horror,Frank Darabont,Andrew Lincoin,80,6,6.0
+Westworld:2016,Thriller,Jonathan Nolan,Anthony Hopkins,150,1,1.0
+Atlanta:2016,Comedy,Donald Glover,Ian Somerhalder,200,1,1.0
+Cheese in Trap:2016,College,Quang He,Lee Min,21,2,2.0
